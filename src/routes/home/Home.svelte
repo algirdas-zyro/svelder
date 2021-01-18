@@ -68,7 +68,7 @@
   <title>Elder.js Template: Home</title>
 </svelte:head>
 
-<img src="/img/original.JPG?nf_resize=fit&w=300&h=400" />
+<img src="https://assets.zyrosite.com/cdn-cgi/image/q=100/mP46EgBaeDToQg9w/img-YX4O3qqPrnigQK5q.JPG" />
 
 {#if data.testingHooks}
   <div class="banner">
