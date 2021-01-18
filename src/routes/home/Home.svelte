@@ -68,6 +68,8 @@
   <title>Elder.js Template: Home</title>
 </svelte:head>
 
+<img src="/img/original.JPG" />
+
 {#if data.testingHooks}
   <div class="banner">
     <p>Testing hooks worked</p>
