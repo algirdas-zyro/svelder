@@ -68,7 +68,7 @@
   <title>Elder.js Template: Home</title>
 </svelte:head>
 
-<img src="/img/original.JPG" />
+<img src="/img/original.JPG?nf_resize=fit&w=300&h=400" />
 
 {#if data.testingHooks}
   <div class="banner">
